@@ -1,3 +1,3 @@
 ## Proyecto Colaborativo
-# Realizar Pruebas
+Realizar Pruebas
 proyecto git
